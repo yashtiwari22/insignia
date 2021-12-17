@@ -1,0 +1,72 @@
+.controls-wrapper {
+  width: 100%;
+}
+
+.carousel2-wrapper {
+  margin: 20px;
+  margin-top: 60px;
+  margin-left: 80px;
+  margin-right: 120px;
+  padding: 10px;
+  width: 850px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background: radial-gradient(38.2% 50% at 50% 50%, #2e3134 0%, #292b2e 100%);
+  border: 2px solid #272829;
+  box-shadow: inset 2px 2px 40px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+.heading {
+  color: #30fbef;
+  margin: 20px;
+  font-size: 2rem;
+}
+.name {
+  color: #30fbef;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.content {
+  font-size: 1rem;
+  font-weight: 100;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+.person {
+  display: flex;
+  padding: 15px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.person-desc {
+  padding: 10px;
+}
+
+.person-img {
+  width: 150px;
+}
+.field {
+  color: #9c69e2;
+  font-size: 0.7rem;
+  font-weight: 100;
+}
+.subscribe {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.sub-name {
+  color: #30fbef;
+  font-size: 2rem;
+}
+.sub-des {
+  font-size: 1rem;
+  font-weight: 100;
+  color: #ffffff;
+}
